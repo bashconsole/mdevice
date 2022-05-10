@@ -1,0 +1,63 @@
+{
+  "icons": {
+    "element-desktop-bin": "https://element.io/images/logo-mark-primary.svg",
+    "telegram-desktop-bin": "https://telegram.org/img/t_logo.png",
+    "zoom": "https://estudioflamenco.com/wp-content/uploads/2020/09/zoom-fondo-1.png",
+    "discord-bin": "https://www.pinclipart.com/picdir/middle/24-242816_flat-osx-icons-file-types-folders-apps-games.png",
+    "pidgin": "https://www.clipartmax.com/png/middle/302-3025613_pidgin-logo-pidgin-icon.png",
+    "teams": "https://www.kindpng.com/picc/m/363-3637910_microsoft-teams-download-hd-png-download.png",
+    "slack": "https://assets.stickpng.com/images/5cb480cd5f1b6d3fbadece79.png",
+    "audacity": "https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png",
+    "mixxx": "https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Mixxx-icon.png",
+    "lmms": "https://lmms.io/img/logo_lg.png",
+    "mpd": "https://www.musicpd.org/logo.png",
+    "rhythmbox": "https://iconape.com/wp-content/png_logo_vector/rhythmbox-logo-3-4-4.png",
+    "vlc": "https://images.videolan.org/images/goodies/thumbnails/cone_altglass_2.png",
+    "obs-studio": "https://obsproject.com/assets/images/new_icon_small-r.png",
+    "kdenlive": "https://kdenlive.org/wp-content/uploads/2016/06/kdenlive-logo-hori.png",
+    "mplayer": "https://p1.hiclipart.com/preview/740/970/419/reflections-mplayer-png-clipart.jpg",
+    "smplayer": "https://www.smplayer.info/images/free-media-player.png",
+    "nginx": "https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg",
+    "apache": "https://www.apache.org/foundation/press/kit/feather_small.png",
+
+    "pycharm-community": "https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png",
+    "vim": "https://static-cdn.osdn.net/thumb/g/6/457/180x135_0.png",
+    "nano": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/150px-Gnu-nano.svg.png",
+    "vscode": "https://code.visualstudio.com/apple-touch-icon.png",
+    "jedit": "https://upload.wikimedia.org/wikipedia/commons/d/db/JEdit_Logo.png",
+    "gedit": "https://gitlab.gnome.org/GNOME/gedit/raw/master/data/icons/org.gnome.gedit.svg",
+
+    "gimp": "https://www.gimp.org/images/frontpage/wilber-big.png",
+    "blender": "https://download.blender.org/branding/community/blender_community_badge_white.png",
+    "inkscape": "https://media.inkscape.org/static/images/inkscape-logo.svg",
+    "okular": "https://apps.kde.org/app-icons/org.kde.okular.svg",
+    "krita": "https://apps.kde.org/app-icons/org.kde.krita.svg",
+
+    "steam-launcher": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+
+    "wps-office": "https://ds.cache.wpscdn.com/wps-official-website/img/logo_normal.4e969ab.svg",
+    "libreoffice": "https://freesoft.ru/storage/images/196/1960/195979/195979_normal.png",
+
+    "firefox-bin": "https://www.mozilla.org/media/protocol/img/logos/firefox/logo.fedb52c912d6.svg",
+    "chromium": "https://www.chromium.org/_/rsrc/1438879449147/config/customLogo.gif",
+    "falkon": "https://www.falkon.org/images/favicon-196x196.png",
+    "links": "https://www.pinclipart.com/picdir/big/547-5473112_link-symbol-of-two-chains-links-linked-svg.png",
+    "vivaldi": "https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/browsers/vivaldi.png",
+    "netsurf": "https://www.netsurf-browser.org/netsurf.png",
+
+    "nmap": "https://nmap.org/images/sitelogo.png",
+    "cpu-x": "https://github.com/X0rg/CPU-X/raw/master/data/icons/CPU-X_192x192.png",
+    "ncdu": "https://dev.yorhel.nl/img/ncdu.png",
+
+    "django": "https://static.djangoproject.com/img/icon-touch.e4872c4da341.png",
+    "flask": "https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png",
+    "nodejs": "https://nodejs.org/static/images/logo.svg",
+    "tornado": "https://www.tornadoweb.org/en/stable/_images/tornado.png",
+    "erlang": "https://www.erlang.org/assets/img/erlang-logo.svg",
+    "rebar-bin": "https://rebar3.org/images/logo.svg",
+    "docker": "https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png",
+
+    "elixir": "",
+    "": ""
+  }
+}

@@ -1,0 +1,103 @@
+.btn-group div {
+  /*background-color: #04aa6d; /* Green background */
+  /*border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+.btn-group div:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Add a background color on hover */
+.btn-group div:hover {
+  /* background-color: #3e8e41;*/
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn-toggle {
+}
+
+.container {
+  /* --width_window определён в /src/style.css*/
+  width: calc(var(--width_window) - 300px);
+  width: 350px;
+  /*padding: 0px;*/
+}
+
+/*  *{}*/
+.d6 {
+  box-sizing: border-box;
+}
+.d6 form {
+  position: relative;
+
+  width: 300px;
+  margin: 0 auto;
+  /* height: 42px;*/
+}
+.d6 input {
+  height: 27px;
+  width: 0;
+  padding: 0 42px 0 0px;
+  border: none;
+  /*border-bottom: 2px solid transparent;*/
+  outline: none;
+  background: transparent;
+  transition: 0.4s cubic-bezier(0, 0.8, 0, 1);
+  font-size: 1.4em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+}
+.d6 input:focus {
+  background: transparent;
+  width: 300px;
+  z-index: 1;
+  border-bottom: 2px solid #f9f0da;
+}
+.d6 .button {
+  /* background: #683b4d;*/
+  border: none;
+  height: 42px;
+  width: 42px;
+  position: absolute;
+  top: 0px;
+  right: 0;
+}
+.d6 .button * {
+  cursor: pointer;
+}
+.d6 .button:before {
+  /*content: "\f002";*/
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #f9f0da;
+}
+
+.Accrordion {
+  padding: 3px;
+  /*background: rgb(255, 255, 255);
+  */
+  /*background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(229,237,235,0.9093838218881303) 35%); 
+
+*/
+}
+
+.search {
+  color: #fff;
+  background: no-repeat 50% 50%
+    url(https://yastatic.net/s3/home-static/_/h/H/Z5a86M6CqJTSA1DUeUxedyyKc.svg);
+}

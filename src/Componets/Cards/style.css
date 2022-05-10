@@ -1,0 +1,76 @@
+.sCard {
+  /*padding: 5px;*/
+  font-size: 1.2em;
+  text-align: left;
+  /*border-bottom: 1px solid #aaa;*/
+}
+.sCard:hover {
+}
+
+.cTitle {
+  padding-top: 0px;
+  margin: 0px;
+  font: 20px bold;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.sUse {
+  display: flow-root;
+}
+.sUse span {
+  list-style: none;
+  display: inline-flex;
+  padding: 5px;
+}
+.sUse span:hover {
+  background: orange;
+  cursor: pointer;
+}
+
+.cVer {
+  display: flow-root;
+}
+.cVer li {
+  list-style: none;
+  padding-left: 5px;
+}
+.cVer li:hover {
+  cursor: pointer;
+}
+
+.card__img {
+  object-fit: contain;
+}
+
+.Btm {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.btn {
+  float: right;
+  padding: 5px;
+  background: rgba(125, 122, 255, 1);
+  box-shadow: 0 0 3 #000;
+  color: #fff;
+}
+
+.green {
+  background: #0f0;
+  margin: 3px;
+}
+
+.red {
+  background: #f00;
+  margin: 3px;
+}
+
+.descrition {
+  display: flexbox;
+}
+
+.useInfo {
+  margin: 10px;
+}

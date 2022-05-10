@@ -1,0 +1,73 @@
+.modal {
+  padding: 50px;
+  background: #1d1d1d;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.mobile {
+  /*padding: 50px;*/
+  background: 1d1d1d;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.spAuth {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: #1d1d1d; /* #2e323f;*
+  /*background: url("https://on-desktop.com/ru/images/wp.php?path=/wps/20213D-graphics_Beautiful_purple_fractal_pattern_with_golden_lines_151099_.jpg&wp=2");
+&*/
+  z-index: 9999;
+
+  font-size: 1.2em;
+}
+.formAuth {
+  /*position: fixed;
+  background: rgba(255, 255, 255, 0.85);*/
+  /*top: 40%;
+  left: 40%;*/
+  padding: 10px;
+  /*margin: -100px 0 0 -200px; /* отступы равны половинным размера формы */
+  /* чтобы форма была поверх всех элементов страницы */
+  background: #1d1d1d;
+  color: "#FFF";
+  /*position: fixed;*/
+  box-shadow: 0px 0px 100px rgba(0, 100, 100, 0.5);
+  margin: 0 auto;
+  color: #00f;
+  border: 10px solid rgba(0, 100, 100, 0.5);
+  border-radius: 30px;
+}
+.formAuth h2 {
+  color: #fff;
+  text-align: center;
+}
+.formAuth p {
+  color: #fff;
+}
+.formAuth input {
+  float: right;
+  border-radius: 5px;
+  font-size: 0.9em;
+  background: #1d1d1d;
+  color: #fff;
+}
+.authBtn {
+  float: right;
+  padding: 10px;
+  background: rgba(0, 100, 100, 0.5);
+  color: #fff;
+  border-radius: 10px;
+}
